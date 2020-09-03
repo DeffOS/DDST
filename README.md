@@ -1,4 +1,4 @@
-Source Engine Toolkit - Pack of programs for facilitating import pipeline
+Source Engine Toolkit - Pack of .NET programs for facilitating import pipeline
   
 -DDMB - Model bulker for static models and animated doodads
   
